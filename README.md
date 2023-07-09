@@ -20,6 +20,6 @@ I invite you to join me on this thrilling adventure as we unlock our full potent
 
 Feel free to explore my repositories and projects. If you'd like to connect, collaborate, or have any questions, please don't hesitate to reach out. Let's embark on this exciting journey together and create something amazing!
 
-Connect with me on [LinkedIn]([https://www.linkedin.com/in/arnim-gautam-417bb425a/])
+Connect with me on [LinkedIn](https://www.linkedin.com/in/arnim-gautam-417bb425a/)
 
 Thank you for visiting, and I look forward to connecting with you! 🙌
