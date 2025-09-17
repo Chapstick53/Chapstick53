@@ -1,25 +1,36 @@
-# Hello, I'm Arnim Gautam 👋
+👋 Hi, I’m Arnim Gautam
 
-Welcome to my GitHub profile! I'm an engineering student with a deep passion for technology and a drive to create a lasting impact. Through my programming journey, I have gained a solid understanding of languages like Java, C, and C++, allowing me to tackle a wide range of projects and demonstrate my problem-solving abilities.
+🚀 Backend & ML Engineer | Full-Stack Developer | Tech Lead at Hospkart
 
-## Hackathons: Fueling Collaboration and Growth 💡
+I’m a Computer Science Engineer (B.Tech, 2025) with hands-on experience leading technology teams, building full-stack applications, and contributing to research in machine learning and computer vision. I enjoy working at the intersection of backend systems, AI, and product design to create impactful solutions.
 
-One of the most exciting experiences on my programming path was participating in a Hackathon. Although our team didn't secure a victory, the valuable lessons learned were immeasurable. The event emphasized effective communication, strategic planning, and the power of collaboration. Working towards a common goal alongside talented individuals ignited my desire for continuous improvement.
+🔹 About Me
 
-## Exploring the World of Web Development 🌐
+💻 Technical Lead at Hospkart (via KVON Tech) – managed API integrations, deployments, admin portals, and launched the platform with 100+ onboarded customers.
 
-Web development has been an exhilarating avenue for exploration. I've dived deep into HTML, CSS, and JavaScript, accumulating practical experience and expanding my comprehension of these languages. Along the way, I've developed a knack for designing captivating user interfaces that leave a lasting impression.
+📖 Research Contributor – NTIRE 2025, CVPR Workshops – worked on image super-resolution, maintaining pipelines, documenting results, and publishing with the Cipher Vision team.
 
-## Embracing Innovation and the Future 🔮
+🛠️ Builder of AI tools, real-time apps, and web platforms, with a focus on clean design and scalable systems.
 
-With a visionary mindset, I'm constantly seeking new challenges and embracing emerging technologies. I'm committed to continuous learning, staying up-to-date with industry trends, and remaining competitive in the ever-evolving engineering landscape. My unique blend of programming knowledge, collaborative spirit, and unwavering dedication to innovation sets me apart.
+🔹 Skills & Technologies
 
-## Join Me on this Exciting Journey 🚀
+Backend & APIs: Node.js, Express.js, MongoDB, MySQL, REST APIs, Authentication
+Frontend: JavaScript (ES6+), React.js, Bootstrap, Figma (UI/UX)
+AI / ML: PyTorch, OpenCV, Computer Vision, Evaluation Metrics
+Other: Git/GitHub, Linux, Deployment & Hosting
 
-I invite you to join me on this thrilling adventure as we unlock our full potential and leave an indelible mark on the world. Together, we can break barriers, create meaningful impact, and shape the future of engineering. Let's explore limitless possibilities and embrace the power of technology to make a difference.
+🔹 Featured Projects
 
-Feel free to explore my repositories and projects. If you'd like to connect, collaborate, or have any questions, please don't hesitate to reach out. Let's embark on this exciting journey together and create something amazing!
+🖼️ Image Restoration Tool – Modular PyTorch-based tool for blind restoration (dehazing, deraining, denoising).
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/arnim-gautam-417bb425a/)
+🌐 Prestige (Hospkart UI) – Responsive frontend in React.js with Figma-driven design systems.
 
-Thank you for visiting, and I look forward to connecting with you! 🙌
+📱 Doctor Appointment Portal – Telemedicine platform with React Native + Node.js + MySQL backend.
+
+⚡ Real-time Quiz App – Recruitment tool with timers, live results, and secure backend (Node.js + MongoDB).
+
+🎮 RPG Platformer Game – 2D game exploring pixel art, animations, and game mechanics.
+
+🔹 Let’s Connect
+
+🔗 LinkedIn
