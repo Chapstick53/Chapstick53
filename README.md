@@ -23,7 +23,7 @@ I am a Computer Science Engineer (B.Tech, 2025) with hands-on experience in lead
 
 ## Selected Projects
 - **Image Restoration Tool** – Modular PyTorch tool for blind restoration (dehazing, deraining, denoising).  
-- **Prestige (Hospkart UI)** – Responsive frontend in React.js with Figma-driven design systems.  
+- **Prestige an electric supply wholesaler UI** – Responsive frontend in React.js with Figma-driven design systems.  
 - **Doctor Appointment Portal** – Telemedicine platform (React Native + Node.js + MySQL).  
 - **Real-time Quiz Application** – Recruitment tool with timers, live results, and secure backend (Node.js + MongoDB).  
 - **RPG Platformer Game** – 2D game exploring pixel art, animations, and gameplay mechanics.  
